@@ -4,7 +4,7 @@
   <value name="enabled">yes</value>
   <value name="lazy_load">yes</value>
   <value name="system_package">no</value>
-  <value name="version">1.0</value>
+  <value name="version">1.0.0</value>
   <value name="name">AadiProject</value>
   <null name="startup_services"/>
   <null name="shutdown_services"/>
@@ -14,13 +14,13 @@
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">2</value>
+  <value name="build">3</value>
   <null name="description"/>
   <value name="created_date">20-07-2026 17:15:29 GMT</value>
   <null name="extendedProperties"/>
   <value name="target_server_version">12.1.0.0</value>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2026-07-20T17:15:36.315834329Z</value>
+  <value name="lastUpdated">2026-07-20T17:18:53.944607673Z</value>
   <value name="wmProjectId">flcacd9b850d7b49c1926c42cdce519d92</value>
   <value name="creator">Aadi Tripathi</value>
 </Values>
